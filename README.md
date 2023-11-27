@@ -70,16 +70,16 @@ Model                 | Test Accuracy\
 ResNet50 Based CNN    | 77.3%\
 DenseNet121 Based CNN | 70%\
 Xception Based CNN    | 72%\
-Traditional CNN       | 37%\
+Traditional CNN       | 37%
 
 We found that the ResNet50 base model works best for task 1 as it had the highest test accuracy out of all the models. And using a similarity based approach for task 2 is a good idea as the recommender doesn’t recommend merely on the flowers type but instead based on image similarity, which is what was required for task 2.
 
 To compare our model from task 1 to those from existing literature, we picked a CNN transfer learning model from Narvekar and Rao[4] and a CNN model with stochastic pooling strategy from Prasad et al.[5]	. Both of these models perform image classification on flower species, similar to ours.
 
-Model                     | Test Accuracy
-Chosen ResNet50 Based CNN | 77%
-Narvekar and Rao[4]       | 91%
-Prasad et al.[5]          | 93.98%
+Model                     | Test Accuracy\
+Chosen ResNet50 Based CNN | 77%\
+Narvekar and Rao[4]       | 91%\
+Prasad et al.[5]          | 93.98%\
 
 As shown above, the models from existing literature vastly outperforms ours in testing accuracy.
 
