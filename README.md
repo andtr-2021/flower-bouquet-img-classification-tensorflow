@@ -66,11 +66,11 @@ In this approach, firstly, we built a CNN model to make predictions later to rec
 
 ### Model Evaluation & Ultimate Judgement
 
-Model                 | Test Accuracy
-ResNet50 Based CNN    | 77.3%
-DenseNet121 Based CNN | 70%
-Xception Based CNN    | 72%
-Traditional CNN       | 37%
+Model                 | Test Accuracy\
+ResNet50 Based CNN    | 77.3%\
+DenseNet121 Based CNN | 70%\
+Xception Based CNN    | 72%\
+Traditional CNN       | 37%\
 
 We found that the ResNet50 base model works best for task 1 as it had the highest test accuracy out of all the models. And using a similarity based approach for task 2 is a good idea as the recommender doesn’t recommend merely on the flowers type but instead based on image similarity, which is what was required for task 2.
 
