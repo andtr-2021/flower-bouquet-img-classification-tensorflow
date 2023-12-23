@@ -85,8 +85,8 @@ As shown above, the models from existing literature vastly outperforms ours in t
 
 ### References
 
-[1]	E. Zhu, Y. Ju, Z. Chen, F. Liu, and X. Fang, “DTOF-ANN: An Artificial Neural Network phishing detection model based on Decision Tree and Optimal Features,” Appl. Soft Comput., vol. 95, p. 106505, Oct. 2020, doi: 10.1016/j.asoc.2020.106505.
-[2]	Y. Zhang, Z. Jin, F. Liu, W. Zhu, W. Mu, and W. Wang, “ImageDC: Image Data Cleaning Framework Based on Deep Learning,” in 2020 IEEE International Conference on Artificial Intelligence and Information Systems (ICAIIS), Mar. 2020, pp. 748–752. doi: 10.1109/ICAIIS49377.2020.9194803.
-[3]	R. Poojary, R. Raina, and A. Kumar Mondal, “Effect of data-augmentation on fine-tuned CNN model performance,” IAES Int. J. Artif. Intell. IJ-AI, vol. 10, no. 1, p. 84, Mar. 2021, doi: 10.11591/ijai.v10.i1.pp84-92.
-[4]	C. Narvekar and M. Rao, “Flower classification using CNN and transfer learning in CNN- Agriculture Perspective,” in 2020 3rd International Conference on Intelligent Sustainable Systems (ICISS), Dec. 2020, pp. 660–664. doi: 10.1109/ICISS49785.2020.9316030.
-[5]	M. V.D. Prasad et al., “An efficient classification of flower images with convolutional neural networks,” Int. J. Eng. Technol., vol. 7, no. 1.1, p. 384, Dec. 2017, doi: 10.14419/ijet.v7i1.1.9857.
+[1]	E. Zhu, Y. Ju, Z. Chen, F. Liu, and X. Fang, “DTOF-ANN: An Artificial Neural Network phishing detection model based on Decision Tree and Optimal Features,” Appl. Soft Comput., vol. 95, p. 106505, Oct. 2020, doi: 10.1016/j.asoc.2020.106505.\
+[2]	Y. Zhang, Z. Jin, F. Liu, W. Zhu, W. Mu, and W. Wang, “ImageDC: Image Data Cleaning Framework Based on Deep Learning,” in 2020 IEEE International Conference on Artificial Intelligence and Information Systems (ICAIIS), Mar. 2020, pp. 748–752. doi: 10.1109/ICAIIS49377.2020.9194803.\
+[3]	R. Poojary, R. Raina, and A. Kumar Mondal, “Effect of data-augmentation on fine-tuned CNN model performance,” IAES Int. J. Artif. Intell. IJ-AI, vol. 10, no. 1, p. 84, Mar. 2021, doi: 10.11591/ijai.v10.i1.pp84-92.\
+[4]	C. Narvekar and M. Rao, “Flower classification using CNN and transfer learning in CNN- Agriculture Perspective,” in 2020 3rd International Conference on Intelligent Sustainable Systems (ICISS), Dec. 2020, pp. 660–664. doi: 10.1109/ICISS49785.2020.9316030.\
+[5]	M. V.D. Prasad et al., “An efficient classification of flower images with convolutional neural networks,” Int. J. Eng. Technol., vol. 7, no. 1.1, p. 384, Dec. 2017, doi: 10.14419/ijet.v7i1.1.9857.\
